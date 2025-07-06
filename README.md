@@ -1,6 +1,6 @@
-# receipts-to-postgres
+# llm-receipt-extraction-to-db
 
-This Python script automates the process of extracting transaction data from receipt images using a Large Language Model (LLM) and then uploading the structured data to either a Supabase PostgreSQL database or a NocoDB instance. It's designed to help you digitize and organize your physical receipts efficiently.
+This Python script automates the process of extracting transaction data from receipt images using a Large Language Model (LLM) and then uploading the structured data to either a Supabase PostgreSQL database or a NocoDB instance. It's designed to help digitize and organize physical receipts efficiently.
 
 ## Features
 
